@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  height: 600px;
+  width: 500px;
+}
+
+.buttons{
+  padding: 30px;
+  margin: 5px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  font-size: 30px;
+}
+
+#inputbox{
+  width: 420px;
+  height: 60px;
+  margin-bottom: 20px;
+}
